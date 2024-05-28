@@ -1,4 +1,4 @@
-Task 1 of my Web development and Designing internship at Oasis Infobyte.
+#Task 1 of my Web development and Designing internship at Oasis Infobyte.
 
 
 📌 Project Title:Landing page 
@@ -28,3 +28,5 @@ This landing page project, titled "Rich Cuisine," is a testament to the foundati
 5.Responsive Design: Ensuring responsiveness across devices poses a significant challenge. Employing CSS media queries to adapt the layout and styling for various screen sizes is crucial to maintaining a seamless user experience.
 
 6.Color Scheme and Contrast: Selecting an appropriate color palette and ensuring sufficient contrast between text and background elements is essential for readability and accessibility.
+#SNAPSHOT:
+![LANDING](https://github.com/Tangudu-Jyotirmayee/landing-page/assets/170788125/a5e62d63-5bdd-4506-bae3-4c87ec70e5d4)
